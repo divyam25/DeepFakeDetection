@@ -1,6 +1,6 @@
 # DeepFakeDetection
-## incremental work from u/Megatvini's code
-### DeepFake Forgery Detection using self-attention based Visual transformers(ViT)
+## Bachelor Thesis | incremental work from u/Megatvini's code
+### DeepFake Forgery Detection using self-attention based Vision transformers(ViT)
 
 ### Bachelor Thesis - SVNIT, Surat
 
